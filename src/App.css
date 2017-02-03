@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+}
+
+.App {
+    text-align: center;
+}
+
+.header {
+    background-color: #039705;
+    height: 100px;
+    padding: 20px;
+    color: white;
+}
+
+table {
+    margin: 0 auto;
+}
+
+th {
+    font-weight: normal;
+    color: #039705;
+    padding: 10px 15px;
+}
+td {
+    color: #589959;
+    border-top: 1px solid #d4ffd5;
+    padding: 10px 15px;
+}
+tr:hover td{
+    background: #ddffe2;
+}
+
+.Link {
+    float: left;
+    position: relative;
+    width: 90px;
+    height: 25px;
+    margin: 5px;
+    background-color: #ddffe2;
+
+}
